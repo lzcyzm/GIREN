@@ -1,7 +1,7 @@
 GIREN
 =====
 
-This directory provides the matlab code for GIREN approach, which integrate gene measurements and gene-gene interaction information under an elastic net formulation.
+This directory provides the MATLAB code and toy data for GIREN approach, which integrate gene measurements and gene-gene interaction information under an elastic net formulation.
 
 Please contact Dr. Lin Zhang <lin.zhang@cumt.edu.cn> if you have any questions regarding this package. 
 
